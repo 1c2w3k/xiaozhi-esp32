@@ -8,6 +8,7 @@ on:
   pull_request:
     branches:
       - main
+      - patch-3
 
 permissions:
   contents: read
